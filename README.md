@@ -5,7 +5,7 @@ task1 :-
 
 task2:-
         this is second task to performing a arithamatic operations on two numbers. in c++ language this is the simple calculator to calculate a single operation on two numbers fist upon it rquires which operation we have to done on numbers like '+' , '-' , '*' , '/' etc
-        then enter two numbers and we got the output in very quick . here i am used switch (condition statement) for this program
+        then enter two numbers and we got the output in very quick . here i am used switch (condition statement) for this program.
 
 
 
