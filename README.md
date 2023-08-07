@@ -4,15 +4,15 @@ task1 :-
 
 NUMBER GUESSING GAME
 
-        hello i am pratiksha jagtap this is my codsoft internship task1 that means to code of number guessung game in C++ language . iam doing that code for detect and guess the correct one number from given array means in that program 1-100 this the lenght of number series from this number anybody can guess the number and for that thiss code will be help you to find in minimum attempt . it counts the users attempts for guessing number in the form of the intered values is greater our small that our input number for thr guessing.with the help of code we can guess what is th number in 1-100.      
+        C++ program to implement the Number Guessing Game. In this game the computer chooses a random number between 1 and 100, and the player tries to guess the number in as few attempts as possible. Each time the player enters a guess, the computer tells him whether the guess is too high, too low, or right. Once the player guesses the number, the game is over. 
 
 
 task2:-
 
 simple calculator
 
-        this is second task to performing a arithamatic operations on two numbers. in c++ language this is the simple calculator to calculate a single operation on two numbers fist upon it rquires which operation we have to done on numbers like '+' , '-' , '*' , '/' etc
-        then enter two numbers and we got the output in very quick . here i am used switch (condition statement) for this program.
+        This program takes an arithmetic operator (+, -, *, /) and two operands from a user and performs the operation on those two operands depending upon the operator entered by the user.
+        This program takes an operator and two operands from the user.The operator is stored in variable op and two numbers are stored in num1 and num2 respectively.Then, switch...case statement is used for checking the operator entered by user.If user enters + then, statements for case: '+' is executed and program is terminated. If user enters - then, statements for case: '-' is executed and program is terminated.This program works similarly for the * and / operators. But, if the operator doesn't matches any of the four character [ +, -, * and / ], the default statement is executed which displays error message.
 
 
 task3:-
