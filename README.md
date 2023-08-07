@@ -29,7 +29,7 @@ TO-DO-LIST
 
       In this program, we are going to create To Do List in C++ with the help of file handling. By using file handling we can persist the data even when we close the program and re-run it, which means we will be able to view the tasks even when we restart the program.
 
-      Features
+      Features :
                 1.The user can add a new task
                 2.Update the existing task
                 3.Delete a task from the list of todo
@@ -37,7 +37,16 @@ TO-DO-LIST
                 5.All the data is preserved as we use file handling
 
 
+task5:-
 
+     Simple Movie Ticket Booking System is based on a concept of recording and booking customer’s movie ticket details. Here the user can perform all the tasks like booking a movie show, receiving tickets, and card registration and view all movie show details. There’s no login system for this project. This project contains fewer features but the essentials ones.
+     Talking about the features of the Simple Movie Ticket Booking System, a user can select any movie provided in the list. After selecting a show, he/she has to select timings, then the system asks for personal information which include Name, contact number. There are two types of seat class i.e. Normal class and Gold Class. For certain purpose, he/she can also make payment using the card. He/she has to provide card number, expiry date, and CVV.  After that, the system automatically displays the final outcome which is the user’s bill. For the system, the user can also register DTCard from the system.
+     This project uses classes and file handling features of C++. In order to store all the user’s data, an external file (DAT file) is created by the system, so every time we get into the system we can operate with the existing records. Simple Movie ticket booking System is developed using C++ Programming Language and different variables, strings have been used for the development of it. Simple Movie Ticket Booking System in C++ Programming with source code is free to download. Use for educational purposes only! This project provides the simplest system for managing movie booking system.
+     Features:
+        1.Movie Bookings
+        2.Receiving tickets        
+        3.Information
+        4.Card Registration
 
 
 
